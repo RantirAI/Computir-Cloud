@@ -99,19 +99,17 @@ Computir supports integrations with Google Sheets, OpenAI, Discord, RSS, and ove
 
 As an **open ecosystem** including the nesteled installed Applications.
 
-You can easily create your own apps or customize our applications using our TypeScript framework. For detailed instructions, please refer to our documentation
+You can easily create your own apps or customize our applications using our TypeScript framework. For detailed instructions, please refer to our documentation. 
 
 <br>
-<br>
-<br>
-<br>
-
 
 # License
 
-Computir' Community Edition is released as open source under the [MIT license] and enterprise will be licensed directly to your business (except for resell or embed into another SaaS). 
+Computir' Cloud is released as open source under the [MIT license] limited. This includes everything but the /ee/ folder and the products under the /Rantir or /Witir foulders or any other marketplace-product at this time. You cannot, under any certcumstances resell, or embed Computir Cloud or the marketplace applications (like writir, rantir, ect.) into any SaaS or sub-tentate licensing actions. We offer those solutions to the direct authors and can help you navigate the licensing questions with them for this use-case. You will need a license key to activate those folders and without it, the entire codebase will fail. 
 
-Read more about the feature comparison here https://www.computir.ai/pricing
+For commericial or enterprise use-cases, we offer a unique license and activation key for AI-agents and we offer unique customization and node creation. Ask us at hello@rantir.com for questions regarding your build inquires. We deliever that license key under an Computir Enterprise license with yearly a contract and unique key to activate those upgrades. We are excited to offer build plans under these enterprise terms (except for resell or embed into another SaaS - for this we will directly you indivdually to those venders that would allow you to embed, please reach out for this use case). 
+
+Read more about the feature comparison here at https://www.computir.ai/pricing or contact us at support@rantir.com for any licensing questions you might face. Otherwise, the self-hosted option is for testing perposes or personal (non-commercial) uses only. 
 <br>
 <br>
 
